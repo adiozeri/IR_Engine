@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IR_engine.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CacheThreshold" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">11894.82</Value>
+    </Setting>
+    <Setting Name="CachePostingListLimit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="NumberOfGroupsFilesToIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">227</Value>
+    </Setting>
+    <Setting Name="NumberOfFilesPerItreation" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

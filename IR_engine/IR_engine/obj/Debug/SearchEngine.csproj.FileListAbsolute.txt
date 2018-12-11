@@ -1,0 +1,180 @@
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\App.g.cs
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+c:\users\adiozeri\documents\visual studio 2015\Projects\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\adioz\Downloads\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine-20171205T215414Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\DisplayCache.g.cs
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\DisplayCache.baml
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.g.cs
+C:\Users\dieia\Desktop\שנה ג\אחזור\מנוע\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\DisplayCache.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\DisplayCache.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.baml
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\adioz\Documents\לימודים\שנה ד\אחזור\מנוע 2017\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+S:\אחזור\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+S:\אחזור\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+S:\אחזור\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+S:\אחזור\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+S:\אחזור\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+S:\אחזור\IR_engine\IR_engine\obj\Debug\DisplayCache.g.cs
+S:\אחזור\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+S:\אחזור\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.g.cs
+S:\אחזור\IR_engine\IR_engine\obj\Debug\App.g.cs
+S:\אחזור\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+S:\אחזור\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+S:\אחזור\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+S:\אחזור\IR_engine\IR_engine\obj\Debug\DisplayCache.baml
+S:\אחזור\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+S:\אחזור\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.baml
+S:\אחזור\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+S:\אחזור\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+S:\אחזור\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+S:\אחזור\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+S:\אחזור\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\DisplayCache.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\DisplayCache.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\DocumentSummary.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע\IR_engine\IR_engine\obj\Debug\DocumentSummary.baml
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\DisplayCache.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\DocumentSummary.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\DisplayCache.baml
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\DocumentSummary.baml
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.baml
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SaveQueriesToFile.g.cs
+C:\Users\adioz\Downloads\IR_engine-20180113T180932Z-001\IR_engine\IR_engine\obj\Debug\SaveQueriesToFile.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\bin\Debug\IR_engine.exe.config
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\IR_engine.exe
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\DisplayCache.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\DocumentSummary.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\MainWindow.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\SaveQueriesToFile.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\App.g.cs
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.cache
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\IR_engine_MarkupCompile.lref
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\bin\Debug\IR_engine.exe
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\bin\Debug\IR_engine.pdb
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\DictionaryDisplay.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\DisplayCache.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\DocumentSummary.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\MainWindow.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\SaveAndLoadCacheAndDictionary.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\SaveQueriesToFile.baml
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\IR_engine.g.resources
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\IR_engine.Properties.Resources.resources
+C:\Users\dieia\Desktop\מנועעעעעע\מנוע חלק ב\IR_engine\IR_engine\obj\Debug\SearchEngine.csproj.GenerateResource.Cache
